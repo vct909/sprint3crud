@@ -1,0 +1,29 @@
+label {
+    font-weight: bolder;
+}
+::placeholder {
+    color: rgb(0, 63, 102) !important;
+    opacity: 3;
+}
+::-webkit-input-placeholder {
+    color:  rgba(119, 0, 255, 0.541) !important;
+}
+:-moz-placeholder {
+    color:  rgb(0, 70, 114) !important;
+    opacity:  3;
+ }
+ h1 {
+     text-align: center;
+ }
+ #msg {
+     height: 60px;
+ }
+ #grid-contatos tbody {
+     cursor: pointer;
+ }
+ body{
+    color: black
+ }
+ body{
+     background-color: aqua
+ }
